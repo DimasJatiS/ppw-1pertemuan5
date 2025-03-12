@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+.text-indent {
+    text-indent: 30px;
+}
+
+.letter-spacing {
+    letter-spacing: 2px;
+}
+
+.word-spacing {
+    word-spacing: 5px;
+}
+
+.line-height {
+    line-height: 2;
+}
+
+.white-space {
+    white-space: pre;
+}
